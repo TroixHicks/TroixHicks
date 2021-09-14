@@ -1,6 +1,9 @@
 
 🤟🏾 Hello, I'm Troi Hicks and I am currently a full stack developer based in the Philadelphia, PA area. I have experience building fully responsive and accessible web applications.
-                     -👽 I’m interested in creating and learning about technology that centers, helps, and supports marginalized communities.
+              
+              
+           -👽 I’m interested in creating and learning about technology that centers, helps, and supports marginalized communities.
+
 
 
 <!---
