@@ -12,7 +12,9 @@
               
    
     I am currently a full stack developer based in the Philadelphia, PA area. I have experience building fully responsive and accessible web applications.       
-    👽 I’m interested in creating and learning about technology that centers, helps, and supports marginalized communities. As a software engineer at Resilient Coders, I hope to merge technology and art that centers dispossessed communities and elevates those communities through the use of storytelling and visual expression.
+    👽 I’m interested in creating and learning about technology that centers, helps, and supports marginalized communities. 
+    As a software engineer at Resilient Coders, I hope to merge technology and art that centers dispossessed communities and elevates those communities 
+    through the use of storytelling and visual expression.
 
 
 
