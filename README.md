@@ -18,7 +18,7 @@
     I hope to merge technology and art that centers dispossessed communities and elevates those communities 
     through the use of storytelling and visual expression.
 
-
+Skills: JS / HTML / CSS
 
 <!---
 TroixHicks/TroixHicks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
