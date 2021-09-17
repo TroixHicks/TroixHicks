@@ -19,6 +19,7 @@
     through the use of storytelling and visual expression.
 
 Skills: JS / HTML / CSS
+<a href = https://troihicks.net/> My Portfolio </a>
 
 <!---
 TroixHicks/TroixHicks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
