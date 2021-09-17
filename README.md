@@ -19,6 +19,12 @@
     through the use of storytelling and visual expression.
 
 Skills: JS / HTML / CSS
+
+
+
+
+
+
 <a href = https://troihicks.net/> My Portfolio </a>
 
 <!---
