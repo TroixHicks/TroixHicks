@@ -25,7 +25,7 @@ Skills: JS / HTML / CSS
 
 
 
-<a href = https://troihicks.net/> My Portfolio </a>
+My portfolio can be viewed here: <a href = https://troihicks.net/> Portfolio </a>
 
 <!---
 TroixHicks/TroixHicks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
